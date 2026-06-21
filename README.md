@@ -2,6 +2,8 @@
 
 A sleek, highly optimized hybrid LLM chat client built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. It is architected for the ultimate geek setup, allowing you to seamlessly switch between private, low-spec local edge computing (e.g., llama.cpp GGUF instances on old CPUs) and powerful remote cloud endpoints (DeepSeek, OpenRouter, OpenAI) within a single, unified interface.
 
+<img width="1267" height="540" alt="image" src="https://github.com/user-attachments/assets/222fe2df-8a64-4f3a-b06b-5b3c38dd8c89" />
+
 ---
 
 ## ✨ Core Features
