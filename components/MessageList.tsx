@@ -46,8 +46,8 @@ export default function MessageList({
         </h1>
         <p className="max-w-md text-sm leading-relaxed text-white/40">
           Connected to your local{" "}
-          <span className="font-mono text-white/55">llama.cpp</span> server.
-          Conversations stay on your machine.
+          <span className="font-mono text-white/55">llama.cpp</span> server or
+          an OpenAI-compatible endpoint. Conversations stay on your machine.
         </p>
 
         <div className="mt-8 flex flex-wrap items-center justify-center gap-2">

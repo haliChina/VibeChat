@@ -54,7 +54,7 @@ export default function Sidebar({
                 </span>
               </div>
               <span className="text-sm font-medium tracking-tight">
-                llama.chat
+                vibe-chat
               </span>
             </div>
             <button

@@ -576,7 +576,7 @@ export default function ChatApp() {
               </svg>
             </button>
             <span className="max-w-[40vw] truncate font-mono text-xs tracking-tight text-white/40">
-              {activeConversation?.title || "llama.chat"}
+              {activeConversation?.title || "vibe-chat"}
             </span>
           </div>
 
